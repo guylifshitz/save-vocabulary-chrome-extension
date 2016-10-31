@@ -1,0 +1,11 @@
+{
+  "name": "Vocabulary Saver",
+  "description": "This extension helps you quickly save words you came across.",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
